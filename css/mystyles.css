@@ -1,0 +1,46 @@
+img{
+    height: auto;
+    width: 400px;
+}
+.Experience{
+    list-style-position: inside;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Photo{
+    text-align: center;
+}
+h3{
+    text-decoration: underline;
+    color: rgb(55, 61, 67);
+    
+}
+p{
+    text-align: center;
+    margin: 70px;
+}
+iframe{
+    display: block;
+    margin: auto;
+}
+.top{
+    text-align: center;
+}
+body{
+    background-color: aliceblue;
+}
+.Tableau{
+    padding: 30px;
+}
+nav{
+    padding: 13px;
+    text-decoration: none;
+    text-align: right;
+}
